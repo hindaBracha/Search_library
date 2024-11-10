@@ -1,0 +1,6 @@
+[submodule "foirstein-2-front"]
+	path = foirstein-2-front
+	url = https://github.com/diversi-tech/foirstein-2-front
+[submodule "foirstein-2-back"]
+	path = foirstein-2-back
+	url = https://github.com/diversi-tech/foirstein-2-back
